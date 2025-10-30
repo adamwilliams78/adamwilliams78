@@ -23,4 +23,4 @@ Most repos here are anonymised or illustrative versions of real work I’ve done
 
 ### 📫 Get in touch
 
-I'm always happy to talk product, data, or platform strategy. You can reach me on [LinkedIn](https://www.linkedin.com/in/adam-williams-pm).
+I'm always happy to talk product, data, or platform strategy. You can reach me on [LinkedIn](https://www.linkedin.com/in/adamleewilliams).
